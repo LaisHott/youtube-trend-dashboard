@@ -25,17 +25,11 @@ O painel foi desenvolvido com foco em **usabilidade diária** e atende diretamen
 - Tabela interativa: Categorias por país com destaque (realce) proporcional
 - Filtros dinâmicos: por data e país
 
-📷 Layout do dashboard:
-
-![Layout do Dashboard](images/dashboard-layout.png)
-
 ---
 
 ## 🧱 Fonte de Dados
 
-Os dados são fornecidos por uma tabela agregada no banco de dados `youtube`, atualizada diariamente:
-
-**Tabela: `trending_by_time`**
+Os dados estão no arquivo de nome `trending_by_time` 
 
 | Coluna         | Descrição                                        |
 |----------------|--------------------------------------------------|
@@ -51,7 +45,7 @@ Os dados são fornecidos por uma tabela agregada no banco de dados `youtube`, at
 
 A apresentação final com conclusões e recomendações está disponível no link abaixo:
 
-📎 [Clique aqui para acessar o PDF](presentation/YT_trend_dashboard_presentation.pdf)
+📎 [Clique aqui para acessar o PDF](https://drive.google.com/file/d/1bgarag6nHCd7Zyb4yf8-JaVkl4FxqHxd/view?usp=sharing)
 
 ---
 
